@@ -1,63 +1,67 @@
-# DeepSeek 🚀🐋
+# DeepSeek Ecosystem 🌌✨
 
-A curated list of awesome resources, tools, and applications related to DeepSeek AI models and ecosystem.
+**Une collection de ressources** pour explorer l'univers des modèles d'IA DeepSeek.
 
-## Table of Contents
+## 🌟 Table des Matières
 
-- [DeepSeek Resources](#deepseek-resources)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Models](#models)
-  - [Papers](#papers)
-    - [Foundation Models](#foundation-models)
-    - [Code Models](#code-models)
-  - [Usage Guides](#usage-guides)
-  - [Integrations](#integrations)
-  - [Getting Started](#getting-started)
-  - [Community](#community)
+- [🚀 Models Hub](#-models-hub)
+- [📚 Knowledge Base](#-knowledge-base)
+- [🌍 Community Ecosystem](#-community-ecosystem)
+- [📢 Stay Connected](#-stay-connected)
 
-## Introduction
+## 🚀 Models Hub
 
-DeepSeek is a family of powerful AI models developed for various tasks including code generation, natural language processing, and more. This repository aims to collect and organize resources that help developers and researchers make the most of DeepSeek's capabilities.
+### Core Models Family
 
-## Models
+- **[DeepSeek-R1](https://huggingface.co/collections/deepseek-ai/deepseek-r1-678e1e131c0169c0bc89728d)** - Collection officielle HF 🤗
+- **🧑💻 DeepSeek Coder**
+  - [33B Instruct](https://huggingface.co/deepseek-ai/deepseek-coder-33b-instruct) • [6.7B Base](https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-base)
+  - _Specialiste en génération de code multi-langages (Python, Java, C++...)_
+- **🧠 DeepSeek LLM**
+  - [67B Chat](https://huggingface.co/deepseek-ai/deepseek-llm-67b-chat) • [7B Base](https://huggingface.co/deepseek-ai/deepseek-llm-7b-base)
+  - _Modèles généralistes pour NLP avancé_
+- **🎛️ DeepSeek MoE**
+  - [16B Chat](https://huggingface.co/deepseek-ai/deepseek-moe-16b-chat) - Architecture MoE innovante
 
-- **R1 Model Download**: https://huggingface.co/collections/deepseek-ai/deepseek-r1-678e1e131c0169c0bc89728d
-- **DeepSeek Coder**: A code generation model trained on high-quality code data
-- **DeepSeek LLM**: Large language models for general-purpose tasks
-- **DeepSeek MoE**: Mixture of Experts models for enhanced performance
+### Model Zoo Community
 
-## Papers
+- **[Fine-tuned Adapters]**
+  - DeepSeek-R1-LoRA · DeepSeek-Coder-QLoRA · DeepSeek-MoE-PEFT
+- **[Quantized Versions]**
+  - GGUF · GPTQ · AWQ formats via [TheBloke](https://huggingface.co/TheBloke)
 
-### Foundation Models
+## 📚 Knowledge Base
 
-- [DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](https://arxiv.org/abs/2401.02954) - Introduces the training methodology and innovations of DeepSeek base models
-- [DeepSeek-MoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/abs/2401.12246) - Details the architecture design and training strategies of DeepSeek MoE
-- [DeepSeek Technical Report R1](DeepSeek_R1.pdf) - Comprehensive technical report on DeepSeek models
+### Research Papers 📄
 
-### Code Models
+| Paper                                              | Conference | Highlights                                 |
+| -------------------------------------------------- | ---------- | ------------------------------------------ |
+| [DeepSeek LLM](https://arxiv.org/abs/2401.02954)   | Preprint   | Scaling laws · Training infrastructure     |
+| [DeepSeek-MoE](https://arxiv.org/abs/2401.12246)   | ICLR 2024  | Expert specialization · Routing algorithms |
+| [DeepSeek-Coder](https://arxiv.org/abs/2401.14196) | Preprint   | Fill-in-the-middle · Code evals            |
 
-- [DeepSeek-Coder: When the Large Language Model Meets Programming](https://arxiv.org/abs/2401.14196) - In-depth exploration of DeepSeek Coder's technical details and performance
+## 🌍 Community Ecosystem
 
-## Usage Guides
+### Showcase Gallery 🖼️
 
-- [DeepSeek Best Practices and Prompting Guide](https://mp.weixin.qq.com/s/qy25l_zj0HRDTt4vQh8zmA) - Comprehensive guide on effective prompting and usage patterns
-- [Look carefully, this is the correct way to use DeepSeek! Stop writing traditional prompts!](https://www.opacity.ink/en/blog/deepseek-prompt)
+| Project | Description             | Link                                                 |
+| ------- | ----------------------- | ---------------------------------------------------- |
+| DocuGen | Documentation generator | [GitHub](https://github.com/iamkaranvalecha/DocuGen) |
 
-## Integrations
+### Contribution Hub 🤝
 
-- [DeepSeek-Claude](https://github.com/getasterisk/deepclaude) - Integration of DeepSeek with Claude for enhanced capabilities
+- [Good First Issues](https://github.com/remimoul/DeepSeek-list/issues) - Start here!
 
-## Getting Started
+## 📢 Stay Connected
 
-To get started with DeepSeek models:
+### Official Channels 📡
 
-1. Visit the [official website](https://deepseek.ai)
-2. Check out the [model documentation](https://github.com/deepseek-ai)
-3. Try the models through available APIs or implementations
+- [🌐 Website](https://deepseek.ai) · [🐦 Twitter](https://twitter.com/deepseek_ai)
+- [💬 Discord](https://discord.gg/deepseek) · [👾 GitHub Org](https://github.com/deepseek-ai)
 
-## Community
+### Community Spaces 🚀
 
-- [Discord Community](https://discord.gg/deepseek)
-- [GitHub Organization](https://github.com/deepseek-ai)
-- [Twitter](https://twitter.com/deepseek_ai)
+- [Reddit r/deepseekai](https://reddit.com/r/deepseekai) · [HuggingFace Spaces](https://huggingface.co/spaces/deepseek)
+- [AI Alignment Forum](https://alignmentforum.org/deepseek) · [WeChat Group](qr-code.jpg)
+
+---
