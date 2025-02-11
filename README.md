@@ -1,6 +1,6 @@
 # DeepSeek Ecosystem 🌌✨
 
-**Une collection de ressources** pour explorer l'univers des modèles d'IA DeepSeek.
+**A collection of resources** to explore the universe of DeepSeek AI models.
 
 ## 🌟 Table des Matières
 
@@ -9,26 +9,23 @@
 - [🌍 Community Ecosystem](#-community-ecosystem)
 - [📢 Stay Connected](#-stay-connected)
 
+## Introduction
+
+DeepSeek is a family of powerful AI models developed for various tasks including code generation, natural language processing, and more. This repository aims to collect and organize resources that help developers and researchers make the most of DeepSeek's capabilities.
+
 ## 🚀 Models Hub
 
 ### Core Models Family
 
-- **[DeepSeek-R1](https://huggingface.co/collections/deepseek-ai/deepseek-r1-678e1e131c0169c0bc89728d)** - Collection officielle HF 🤗
+- **[DeepSeek-R1](https://huggingface.co/collections/deepseek-ai/deepseek-r1-678e1e131c0169c0bc89728d)** - Official HF collection 🤗
 - **🧑💻 DeepSeek Coder**
   - [33B Instruct](https://huggingface.co/deepseek-ai/deepseek-coder-33b-instruct) • [6.7B Base](https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-base)
-  - _Specialiste en génération de code multi-langages (Python, Java, C++...)_
+  - _Specialist in multi-language code generation (Python, Java, C++...)_
 - **🧠 DeepSeek LLM**
   - [67B Chat](https://huggingface.co/deepseek-ai/deepseek-llm-67b-chat) • [7B Base](https://huggingface.co/deepseek-ai/deepseek-llm-7b-base)
-  - _Modèles généralistes pour NLP avancé_
+  - _Generalist models for advanced NLP_
 - **🎛️ DeepSeek MoE**
-  - [16B Chat](https://huggingface.co/deepseek-ai/deepseek-moe-16b-chat) - Architecture MoE innovante
-
-### Model Zoo Community
-
-- **[Fine-tuned Adapters]**
-  - DeepSeek-R1-LoRA · DeepSeek-Coder-QLoRA · DeepSeek-MoE-PEFT
-- **[Quantized Versions]**
-  - GGUF · GPTQ · AWQ formats via [TheBloke](https://huggingface.co/TheBloke)
+  - [16B Chat](https://huggingface.co/deepseek-ai/deepseek-moe-16b-chat) - Innovative MoE architecture
 
 ## 📚 Knowledge Base
 
@@ -58,10 +55,3 @@
 
 - [🌐 Website](https://deepseek.ai) · [🐦 Twitter](https://twitter.com/deepseek_ai)
 - [💬 Discord](https://discord.gg/deepseek) · [👾 GitHub Org](https://github.com/deepseek-ai)
-
-### Community Spaces 🚀
-
-- [Reddit r/deepseekai](https://reddit.com/r/deepseekai) · [HuggingFace Spaces](https://huggingface.co/spaces/deepseek)
-- [AI Alignment Forum](https://alignmentforum.org/deepseek) · [WeChat Group](qr-code.jpg)
-
----
