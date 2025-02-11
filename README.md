@@ -2,7 +2,7 @@
 
 **A collection of resources** to explore the universe of DeepSeek AI models.
 
-## 🌟 Table des Matières
+## 🌟 Table of Contents
 
 - [🚀 Models Hub](#-models-hub)
 - [📚 Knowledge Base](#-knowledge-base)
