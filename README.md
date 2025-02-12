@@ -13,19 +13,24 @@
 
 DeepSeek is a family of powerful AI models developed for various tasks including code generation, natural language processing, and more. This repository aims to collect and organize resources that help developers and researchers make the most of DeepSeek's capabilities.
 
-## 🚀 Models Hub
+## 🚀 Download Models Hub
 
 ### Core Models Family
 
-- **[DeepSeek-R1](https://huggingface.co/collections/deepseek-ai/deepseek-r1-678e1e131c0169c0bc89728d)** - Official HF collection 🤗
+- **[DeepSeek-R1] https://huggingface.co/collections/deepseek-ai/deepseek-r1-678e1e131c0169c0bc89728d
+
 - **🧑💻 DeepSeek Coder**
-  - [33B Instruct](https://huggingface.co/deepseek-ai/deepseek-coder-33b-instruct) • [6.7B Base](https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-base)
+  - [33B Instruct] https://huggingface.co/deepseek-ai/deepseek-coder-33b-instruct
+  - [6.7B Base] https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-base
   - _Specialist in multi-language code generation (Python, Java, C++...)_
+
 - **🧠 DeepSeek LLM**
-  - [67B Chat](https://huggingface.co/deepseek-ai/deepseek-llm-67b-chat) • [7B Base](https://huggingface.co/deepseek-ai/deepseek-llm-7b-base)
+  - [67B Chat] https://huggingface.co/deepseek-ai/deepseek-llm-67b-chat 
+  - [7B Base] https://huggingface.co/deepseek-ai/deepseek-llm-7b-base
   - _Generalist models for advanced NLP_
+
 - **🎛️ DeepSeek MoE**
-  - [16B Chat](https://huggingface.co/deepseek-ai/deepseek-moe-16b-chat) - Innovative MoE architecture
+  - [16B Chat] https://huggingface.co/deepseek-ai/deepseek-moe-16b-chat - Innovative MoE architecture
 
 ## 📚 Knowledge Base
 
